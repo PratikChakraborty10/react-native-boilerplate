@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-boilerplate",
+    "name": "react-native-boilerplate", 
     "slug": "react-native-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
