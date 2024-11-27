@@ -7,7 +7,7 @@ export default function RootLayout() {
     <View className="flex-1 items-center justify-center bg-white">
       <Text className="text-xl">Open index.tsx to start working on your app</Text>
       <StatusBar style="auto" />
-      <Link href="/profile">Go to profile</Link>
+      <Link href="/list">Go to list</Link>
     </View>
   );
 }
