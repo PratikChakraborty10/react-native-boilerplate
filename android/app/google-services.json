@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730179100039",
+    "project_id": "expopushnotifications-a9277",
+    "storage_bucket": "expopushnotifications-a9277.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730179100039:android:fda022b3a372c7f271c722",
+        "android_client_info": {
+          "package_name": "com.pratikchakraborty.reactnativeboilerplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1Q3WApwcxbaOrLhazIKiFVE3jvl1YX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
